@@ -1,0 +1,9 @@
+{
+  "appTitle": "ConsejoSeguro",
+  "onboardingWelcome": "Bienvenido a ConsejoSeguro",
+  "onboardingStart": "Comenzar",
+  "loginTitle": "Iniciar sesión",
+  "loginWithGoogle": "Iniciar sesión con Google",
+  "loginError": "Error al iniciar sesión",
+  "homeWelcome": "¡Bienvenido a la app ConsejoSeguro!"
+}
